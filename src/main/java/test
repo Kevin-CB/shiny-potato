@@ -1,3 +1,5 @@
 public class Test {
   public String test =""
 }
+<javascript:alert(1)>
+<<img/src/onerror=alert(1)>>
