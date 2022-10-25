@@ -8,4 +8,5 @@ public class Test {
 <javascript&#58;Aalert(1)>
 <<img/src/onerror=alert(1)>>
 <img/src/onerror=alert(1)>
-< a &lt;img/src/onerror=alert(1)&gt;a >
+< a &lt;img/src/onerror=alert(1)&gt; a >
+< a <img/src/onerror=alert(1)> a >
