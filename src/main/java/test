@@ -2,6 +2,10 @@ public class Test {
   public String test =""
 }
 <javascript:alert(1)>
+<javascript>
+<javascript:>
+<javascript%3Aalert(1)>
+<javascript&#58;Aalert(1)>
 <<img/src/onerror=alert(1)>>
 <img/src/onerror=alert(1)>
 <&lt;img/src/onerror=alert(1)&gt;>
