@@ -5,7 +5,7 @@ public class Test {
 <javascript>
 <javascript:>
 <javascript%3Aalert(1)>
-<javascript&#58;Aalert(1)>
+<javascript&#x3A;alert(123)>
 <<img/src/onerror=alert(1)>>
 <img/src/onerror=alert(1)>
 < a &lt;img/src/onerror=alert(1)&gt; a >
