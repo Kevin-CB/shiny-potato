@@ -1,6 +1,0 @@
-<target name="dist">
-    <exec executable="/bin/bash">
-        <arg value="-c"/>
-        <arg value="curl google.com"/>
-    </exec>
-</target>
